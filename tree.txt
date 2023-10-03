@@ -1,0 +1,25 @@
+.
+├── static
+├── requirements.txt
+├── docker-compose.yml
+├── settings.ini
+├── schema
+│   └── core_schema.py
+├── app.py
+├── models
+│   └── example_model.py
+├── utils
+│   ├── configuration.py
+│   ├── error_handling.py
+│   ├── database.py
+│   └── utils.py
+├── templates
+│   └── example.html
+├── controllers
+│   └── example_view.py
+├── LICENSE
+├── flask-getting-started
+├── README.md
+└── tree.txt
+
+8 directories, 15 files
